@@ -27,9 +27,3 @@ Projeto Sistema de Controle de Máquinas de Alimentos
   ]
 }
 ```
-        ]
-      }
-    }
-  ]
-}
-```
