@@ -15,34 +15,6 @@ Projeto Sistema de Controle de Máquinas de Alimentos
         "type": "Polygon",
         "coordinates": [
           [
-              [```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
               [-19.938479, -44.000537],
               [-19.938028, -43.998327],
               [-19.939843, -43.997400],
@@ -54,23 +26,7 @@ Projeto Sistema de Controle de Máquinas de Alimentos
     }
   ]
 }
-```],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
+```
         ]
       }
     }
