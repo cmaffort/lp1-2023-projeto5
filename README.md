@@ -15,11 +15,11 @@ Projeto Sistema de Controle de Máquinas de Alimentos
         "type": "Polygon",
         "coordinates": [
           [
-              [-40,-19],
-              [-40,-20],
-              [-60,-20],
-              [-60,-19],
-              [-40,-19]
+              [-20,-19],
+              [-20,-20],
+              [-25,-20],
+              [-25,-19],
+              [-20,-19]
           ]
         ]
       }
