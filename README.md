@@ -17,8 +17,8 @@ Projeto Sistema de Controle de Máquinas de Alimentos
           [
               [-40,-19],
               [-40,-20],
-              [-90,-20],
-              [-90,-19],
+              [-60,-20],
+              [-60,-19],
               [-40,-19]
           ]
         ]
